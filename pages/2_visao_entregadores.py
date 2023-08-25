@@ -110,7 +110,7 @@ def clean_code( df1 ):
     return df1
 
 # import dataset
-df = pd.read_csv('../dataset/train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 # Cleaning Dataset
 df1 = clean_code( df )
