@@ -8,3 +8,4 @@ Pillow==9.5.0
 plotly==5.16.0
 streamlit==1.25.0
 streamlit-folium==0.13.0
+haversine==2.8.0
