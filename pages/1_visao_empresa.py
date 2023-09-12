@@ -261,7 +261,7 @@ date_slider = st.sidebar.slider( 'Até qual valor?',
                     max_value=datetime(2022, 4, 6),
                     format='DD-MM-YYYY' )
 
-st.header( date_slider )
+
 st.sidebar.markdown( """___""" )
 
 
