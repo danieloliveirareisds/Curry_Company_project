@@ -99,7 +99,7 @@ Cada visão é representada pelo seguinte conjunto de métricas:
 
 Painel online, hospedado em um Cloud e disponível para acesso em
 qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: https://curry-company-daniel-reis.streamlit.app/
+O painel pode ser acessado através desse link: https://curry-company-reis-daniel.streamlit.app/
 
 # 6. Conclusão:
 
