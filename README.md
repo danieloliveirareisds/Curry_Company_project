@@ -1,5 +1,5 @@
 # Curry Company
-
+<img src="1701680.png" width="80" /> 
 # 1. Problema de negócio
   
   A Cury Company é uma empresa de tecnologia que criou um aplicativo que conecta restaurantes, entregadores e pessoas.
